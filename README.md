@@ -10,3 +10,5 @@ Sirve para definir un conjunto de acciones que diferentes tipos de objetos puede
 
 La interfaz ("MenúItaliano") solo garantiza que podrás "pedir lasaña" y obtendrás algo que es una lasaña. Esto permite que tu programa principal (el "comensal") pueda interactuar con cualquier "cocina" que cumpla con la interfaz "MenúItaliano" de la misma manera, sin preocuparse por los detalles específicos de cada una. Esto hace que el código sea más flexible y fácil de mantener.  
 En resumen, una interfaz es un **acuerdo sobre qué se puede hacer**, permitiendo que diferentes partes de un sistema colaboren sin necesidad de conocer los detalles internos de las otras, siempre que todas respeten ese acuerdo.
+
+
